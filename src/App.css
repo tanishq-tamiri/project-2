@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.navbar{
+  display:flex;
+  padding:20px;
+  align-items: center;
+  margin: 0 auto;
+  width: 800px;
+}
+
+.menu{
+  margin-left: auto;
+}
+
+.menu a{
+  margin-left: 16px;
+  padding: 8px;
+  color: blue;
+}
